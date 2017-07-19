@@ -1,0 +1,21 @@
+#gameField{
+    height: 730px;
+    width: 85%;
+    margin: 0 auto;
+    min-height: 100%;
+    background-image: url("../img/bgcover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 100px;
+}
+.card {
+    height: 120px;
+    width: 180px;
+    background-size: 100% 100%;
+    border-radius: 5px;
+    display: inline-block;
+    margin:10px;
+    background-color: black;
+    background-image: none;
+}
+

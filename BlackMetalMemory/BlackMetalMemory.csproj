@@ -63,12 +63,19 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app.css" />
+    <Content Include="css\memory.css" />
+    <Content Include="img\ashdautas.jpg" />
+    <Content Include="img\b-m1.jpg" />
+    <Content Include="img\denouncementpyre.png" />
+    <Content Include="img\drowningthelight.jpg" />
+    <Content Include="img\gorgoroth.png" />
+    <Content Include="img\marduk.jpg" />
+    <Content Include="img\mayhem.jpg" />
+    <Content Include="img\satyricon.jpg" />
     <Content Include="index.html" />
+    <Content Include="js\jquery-3.1.1.js" />
+    <Content Include="js\memory-jQuery.js" />
     <Content Include="Web.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <TypeScriptCompile Include="app.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
