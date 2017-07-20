@@ -123,7 +123,7 @@ function printAllCards() {
             var newDiv = document.createElement("div");
             newDiv.id = cards[i].motif+x; //Generates ID according to for-loop.
             newDiv.className = 'card ' + cards[i].motif;
-            document.getElementById("gameField").appendChild(newDiv);
+            $("#gameField").append(newDiv);
         }
     }
 }
